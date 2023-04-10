@@ -15,4 +15,4 @@
 *Right - Move the snake right.  
 
 ## Screenshots
-![game]()
+![game](https://raw.githubusercontent.com/99ashu/Snake/main/screenshot/Picture1.png)
