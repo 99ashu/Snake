@@ -5,7 +5,7 @@
 ## Goal Of The Game
 *The player controls a square object which represents a snake.   
 *The goal is to eat apples by colliding with them.   
-*As the player eats an apple, the score increases by 1 and its body will also increase by 1 square block.
+*As the player eats an apple, the score increases by 1 and its body will also increase by 1 square block.  
 *The player must avoid hitting the borders of the screen or colliding with itself.
 
 ## Controls
